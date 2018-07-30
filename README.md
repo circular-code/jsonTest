@@ -1,2 +1,2 @@
-# malukTest
-test für maluk island
+# jsonTest
+Test how jquery's Json.parse handles different kind of data
