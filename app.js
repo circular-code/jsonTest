@@ -13,6 +13,7 @@ $('#button').on('click', function() {
         number: 0,
         bool: true,
         string: 'test',
+        date: new Date(),
         object: {
             test: '!"§$%&/()=?`*Ä_:;,.-_.,+~´`}][{³²°|<>'
         },
